@@ -1,2 +1,2 @@
 # Git-e-GitHub-CursoEmVideo
- Material do Curso de Git e GitHub do Curso em Video
+ Material de Git e GitHub do Curso em Video
